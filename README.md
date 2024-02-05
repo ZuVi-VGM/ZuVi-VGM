@@ -102,7 +102,7 @@ I'd like to learn and work with:
 - Don't hesitate to contact me if you have any questions, collaboration opportunities, or just for a chat!
 ## Stats
 <p>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=ZuVi-VGM&theme=dark&hide_border=false&fire=3ba2cb&ring=3ba2cb&currStreakLabel=3ba2cb&background=08111e&border_radius=15" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZuVi-VGM&theme=dark&show_icons=true&hide_border=false&bg_color=08111e&title_color=3ba2cb&icon_color=3ba2cb&border_radius=15&disable_animations=true" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZuVi-VGM&layout=compact&langs_count=10&hide_border=false&theme=dark&bg_color=08111e&title_color=3ba2cb&icon_color=3ba2cb&border_radius=10" width="45%">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=ZuVi-VGM&theme=dark&hide_border=false&fire=3ba2cb&ring=3ba2cb&currStreakLabel=3ba2cb&background=08111e&border_radius=15&count=12" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZuVi-VGM&theme=dark&show_icons=true&hide_border=false&bg_color=08111e&title_color=3ba2cb&icon_color=3ba2cb&border_radius=15&disable_animations=true&count=12" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZuVi-VGM&layout=compact&langs_count=10&hide_border=false&theme=dark&bg_color=08111e&title_color=3ba2cb&icon_color=3ba2cb&border_radius=10&count=12" width="45%">
 </p>
