@@ -94,7 +94,7 @@ I'd like to learn and work with:
 ## Contacts
 
 [![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitog.m98@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vito-marino-8798122b2/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vito-gabriele-marino-8798122b2/)
 [![X](https://img.shields.io/badge/-X-black?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/vitogm98)
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/341941043639353348)
 
