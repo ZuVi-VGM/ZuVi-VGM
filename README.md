@@ -36,7 +36,7 @@ Web Developing:
   <a href="https://angularjs.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/></a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
   <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-
+  <a href="https://preactjs.com/" target="_blank" rel="noreferrer"><img src="icons/preact-color.svg" width="36" height="36" alt="Preact" /></a>
 </p>
 
 Data Engineering & Data Science:
