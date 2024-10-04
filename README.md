@@ -13,7 +13,7 @@ Currently, I'm seeking job opportunities. I would like to work as a Data Enginee
 
 - 👋 Hi, I’m Vito @ZuVi-VGM
 - 👀 I’m interested in computer science, data engineering and developing 📖
-- 🌱 I’m currently working as a data engineer in the financial field!
+- 💼 I’m currently working as a data engineer in the financial field!
 - 📫 How to reach me... see [Contacts](#contacts)
 - ⚡ Fun fact: I can't stop learning or developing things!
 
