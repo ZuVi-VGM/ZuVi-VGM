@@ -1,12 +1,12 @@
 # About Me
 🇮🇹
-Ciao! Sono Vito, un appassionato di informatica dalla tenera età adolescenziale!
+Ciao! Sono Vito!
 Ho iniziato ad appassionarmi a questo mondo e a sviluppare i primi progetti intorno ai quattordici anni, imparando tutto da autodidatta.
 Finito il liceo ho deciso di intraprendere gli studi in Ingegneria Informatica presso l'Università di Pisa, dove ho avuto modo di ampliare ed affinare le mie conoscenze ed ottenuto una laurea di primo livello.
 Attualmente sono in cerca di lavoro, mi piacerebbe lavorare come Data Engineer, in modo da ampliare le mie conoscenze in questo campo, tuttavia continuo a coltivare e portare avanti la passione per il developing.
 
 🇬🇧
-Hello! I'm Vito, a computer enthusiast since my early teenage years!
+Hello! My name is Vito!
 I began to explore this world and develop my first projects around the age of fourteen, learning everything on my own.
 After high school, I decided to pursue studies in Computer Engineering at the University of Pisa, where I had the opportunity to broaden and refine my knowledge and obtain a Bachelor's degree.
 Currently, I'm seeking job opportunities. I would like to work as a Data Engineer to further expand my skills in this field, while still nurturing and advancing my passion for software development.
